@@ -1,0 +1,30 @@
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Node & Frontend
+node_modules/
+app/node_modules/
+dist/
+app/dist/
+*.tsbuildinfo
+app/public/rdkit/
+toxilab-site.zip
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
